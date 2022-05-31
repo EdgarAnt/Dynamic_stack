@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632705773 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\pila dinamica\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
